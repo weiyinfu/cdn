@@ -1,1 +1,1 @@
-rsync -r --progress ./* me:~/app/HomePage/dist/cdn/
+rsync -r --progress ./* me:~/app/cdn/
